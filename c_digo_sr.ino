@@ -1,3 +1,5 @@
+//Código do Projeto Separador de Remédios do Grupo das Batatas (Alunas: Amanda Smanioto, Camila Faleiros, Daniela Flauto, Fernanda Hamatsu)
+
 #include <Servo.h>                                     //importar a biblioteca dos motores
 
 #define S0 2                                           //define a porta do led S0 do sensor
